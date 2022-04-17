@@ -1,3 +1,4 @@
+#문제 : 로또의 최고 순위와 최저 순위
 def solution(lottos, win_nums):
     answer = [6,6,5,4,3,2,1]
     count1 = count2 = 0

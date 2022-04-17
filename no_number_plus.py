@@ -1,3 +1,4 @@
+#문제 : 없는 숫자 더하기
 def solution(numbers):
     max_result = 45
     sum = 0
